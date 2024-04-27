@@ -2,7 +2,7 @@
 
 const path = require("path");
 const fs = require("fs");
-const leer = require("../leer");
+const leer = require("./leer");
 
 function crear(alumno) {
   const db = leer();

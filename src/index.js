@@ -1,5 +1,5 @@
 "use strict";
 
-const leer = require("./leer");
+const leer = require("./utils/leer");
 
 console.log(leer());
